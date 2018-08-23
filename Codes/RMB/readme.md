@@ -12,3 +12,4 @@ We train our RBM model:
 Samples Generated for 1000 steps of Gibbs sampling:
 
 
+![image](https://user-images.githubusercontent.com/36561982/44510983-c2203100-a6d3-11e8-996e-f329f61e7095.png)
