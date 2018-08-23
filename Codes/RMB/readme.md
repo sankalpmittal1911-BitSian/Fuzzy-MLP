@@ -7,4 +7,8 @@ We train our RBM model:
  
  And after 15 epochs:
  
- 
+ ![image](https://user-images.githubusercontent.com/36561982/44510904-900ecf00-a6d3-11e8-967b-d92ebeef1f7b.png)
+
+Samples Generated for 1000 steps of Gibbs sampling:
+
+
